@@ -6,7 +6,7 @@ import android.view.View;
 import edu.feicui.app.phone.base.db.BaseActivity;
 
 public class HomeActivity extends BaseActivity {
-
+//你大爷的   哈哈哈哈哈哈
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
